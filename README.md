@@ -24,6 +24,9 @@ Interactive Excel dashboard analyzing retail sales, customer segments, and deliv
 - Built Pivot Tables for analysis
 - Designed dashboard with KPIs, charts, and slicer
 - Derived insights and recommendations
+  
+## Dashboard Preview
+<img width="1230" height="661" alt="Dashboard" src="https://github.com/user-attachments/assets/bf7e5e84-a538-46ac-bdb3-333d5638548d" />
 
 ## Dashboard Features
 - KPIs: Total Sales, Orders, Customers, AOV, Delivery Days
