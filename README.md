@@ -35,9 +35,9 @@ Interactive Excel dashboard analyzing retail sales, customer segments, and deliv
   
 ## Key Insights
 - 67.78% of deliveries are delayed, primarily in Standard Class. Improving logistics and delivery efficiency can enhance performance, as only 32% of deliveries are on time
-- the consumer segment contributes the highest share of sales(51%) across all product categories,indicating stronger demand compared to coroprate(30%)and home office segments (19%).
+- the consumer segment contributes the highest share of sales(51%) across all product categories,indicating stronger demand compared to corporate(30%)and home office segments (19%).
 - The technology category (36.59%) contributes the highest share of total sales, highlighting it as the primary driver of revenue, compared to Furniture(32.22%) and office supplies(31.19%).
-- Sales show varition across month, with peak performance in Nov, and Lower sales in Feb
+- Sales show variation across month, with peak performance in Nov, and Lower sales in Feb
 - The west region generates the higest sales,indicating strong market performance,while the south Region contributes the least
   
 ## Recommendations
